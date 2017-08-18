@@ -1,0 +1,19 @@
+{
+  "name": "5-weekly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.5",
+    "morgan": "^1.8.2"
+  }
+}
